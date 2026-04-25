@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 import {
   BrowserRouter as Router,
   Routes,
@@ -496,7 +495,7 @@ const Footer = () => (
       ))}
     </ul> */}
     <ul>
-      
+
     </ul>
 
 
