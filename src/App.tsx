@@ -5,7 +5,7 @@ import {
   Link,
   useLocation,
 } from "react-router-dom";
-
+import { useEffect } from "react";
 /* ═══════════════════════════════════════════════════════
    GLOBAL STYLES
 ═══════════════════════════════════════════════════════ */
